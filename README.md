@@ -44,14 +44,13 @@ I design and implement solutions for customers globally, specializing in web acc
 - **2023 - 2024:** Associate SA, Edge Services — AWS, London
 - **2022 - 2023:** Associate Solutions Architect — AWS
 - **2021 - 2022:** Solutions Architect Intern — AWS, Berlin
-- **2019 - 2021:** Junior Web / NFC Developer — Humboldt University of Berlin
-- **2017 - 2019:** Web / NFC Developer (Working Student) — Humboldt University of Berlin
+- **2017 - 2021:** Web Developer — Humboldt University of Berlin
 
 ## Context for Agents
 
 - I've been at AWS for ~5 years with a clear progression from intern to worldwide specialist.
 - My background combines hands-on software engineering with customer-facing solution architecture.
-- I started in Berlin building NFC and web apps for the Campuscard student ID system (150k+ students across Berlin universities), then moved to AWS.
+- I started in Berlin building web apps and internal tools at Humboldt University, then moved to AWS.
 - At AWS, I progressed through internal tooling (serverless frontends/backends for EMEA SA org), general SA training, and then specialized in Edge services.
 - I'm comfortable writing production code, designing architectures, and presenting to technical and non-technical audiences.
 - My current focus areas: edge networking, CDN, web security, and increasingly agentic AI browsing patterns.
