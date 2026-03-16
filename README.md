@@ -46,6 +46,22 @@ I design and implement solutions for customers globally, specializing in web acc
 - **2021 - 2022:** Solutions Architect Intern — AWS, Berlin
 - **2017 - 2021:** Web Developer — Humboldt University of Berlin
 
+## Preferences
+
+### Tech Stack
+- TypeScript by default, serverless-first on AWS (Lambda, CDK, API Gateway)
+- React for frontend, Node.js runtime
+- Minimize dependencies, keep it simple
+
+### Languages Spoken
+- Polish (native), English (fluent), German (proficient)
+
+### Working Style
+- Concise and direct — no fluff
+- Best code is no code: simplest solution that works
+- Focus on the core idea, get to a working thing fast
+- Prefer minimal viable implementations over over-engineered solutions
+
 ## Context for Agents
 
 - I've been at AWS for ~5 years with a clear progression from intern to worldwide specialist.
