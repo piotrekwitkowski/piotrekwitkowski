@@ -39,15 +39,13 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ## Career Timeline
 
-| Period | Role | Organization | Location |
-|---|---|---|---|
-| Oct 2025 - Present | WW Specialist SA, Edge & Networking | AWS | London, UK |
-| Jul 2024 - Oct 2025 | Associate Specialist SA, Edge Services | AWS | London, UK |
-| Mar 2023 - Jul 2024 | Associate SA, Edge Services | AWS | London, UK |
-| Sep 2022 - Feb 2023 | Associate Solutions Architect | AWS | - |
-| May 2021 - Aug 2022 | Solutions Architect Intern | AWS | Berlin, DE |
-| Sep 2019 - May 2021 | Junior Web / NFC Developer | Humboldt University of Berlin | Berlin, DE |
-| May 2017 - Aug 2019 | Web / NFC Developer (Working Student) | Humboldt University of Berlin | Berlin, DE |
+- **2025 - Present:** WW Specialist SA, Edge & Networking — AWS, London
+- **2024 - 2025:** Associate Specialist SA, Edge Services — AWS, London
+- **2023 - 2024:** Associate SA, Edge Services — AWS, London
+- **2022 - 2023:** Associate Solutions Architect — AWS
+- **2021 - 2022:** Solutions Architect Intern — AWS, Berlin
+- **2019 - 2021:** Junior Web / NFC Developer — Humboldt University of Berlin
+- **2017 - 2019:** Web / NFC Developer (Working Student) — Humboldt University of Berlin
 
 ## Context for Agents
 
