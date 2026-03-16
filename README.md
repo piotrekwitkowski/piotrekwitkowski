@@ -46,6 +46,11 @@ I design and implement solutions for customers globally, specializing in web acc
 - **2021 - 2022:** Solutions Architect Intern — AWS, Berlin
 - **2017 - 2021:** Web Developer — Humboldt University of Berlin
 
+## Education
+
+- **MSc Computer Science** — TU Berlin (2019-2022). Thesis on serverless performance variability: benchmarked 100+ Lambda/Cloud Run function variants for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
+- **BSc Computer Science** — Humboldt-Universität zu Berlin (2016-2019).
+
 ## Preferences
 
 ### Tech Stack
