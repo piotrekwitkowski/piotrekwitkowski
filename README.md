@@ -7,7 +7,7 @@
 
 ## Current Role
 
-**WW Specialist Solutions Architect, Edge & Networking Services** at Amazon Web Services (AWS) (since Oct 2025).
+**WW Specialist Solutions Architect, Edge & Networking Services** at Amazon Web Services (AWS).
 
 I design and implement solutions for customers globally, specializing in web acceleration, content delivery, and application security at the edge. I lead technical content development (blogs, workshops, demos), contribute to Edge GTM strategy, and drive adoption through partner enablement and multi-customer events.
 
@@ -25,7 +25,7 @@ I design and implement solutions for customers globally, specializing in web acc
 - Backend: Serverless architectures on AWS, API design
 - Infrastructure: IaC, CI/CD pipelines
 - Languages: TypeScript, JavaScript, Java, Python
-- Cross-platform: native desktop (Linux, Windows), hybrid mobile (Ionic), web
+- Cross-platform: web, native desktop (Linux, Windows), hybrid mobile (Ionic)
 
 ### Solution Architecture
 - AWS architectural patterns and solution design
@@ -45,7 +45,7 @@ I design and implement solutions for customers globally, specializing in web acc
 ## Education
 
 - **MSc Computer Science** — TU Berlin (2019-2022). Thesis on serverless performance variability: benchmarked 100+ Lambda/Cloud Run function variants for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
-- **BSc Computer Science** — Humboldt-Universität zu Berlin (2016-2019).
+- **BSc Computer Science** — Humboldt-Universität zu Berlin (2016-2019). Thesis on NFC card emulation: implemented MIFARE DESFire AES mutual authentication on Android using Host Card Emulation to emulate and read contactless library ID cards.
 
 ## Preferences
 
