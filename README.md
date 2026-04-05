@@ -1,9 +1,5 @@
 # Piotrek Witkowski
 
-Personal context repository for LLM agents and AI tools.
-
-## Identity
-
 - **Name:** Piotrek Witkowski
 - **Location:** London, United Kingdom
 - **LinkedIn:** https://www.linkedin.com/in/pwitkowski/
