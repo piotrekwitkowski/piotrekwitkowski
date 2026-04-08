@@ -65,8 +65,6 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ## Context for Agents
 
-- I've been at AWS for ~5 years with a clear progression from intern to worldwide specialist.
-- My background combines hands-on software engineering with customer-facing solution architecture.
-- At AWS, I progressed through internal tooling (serverless frontends/backends for EMEA SA org), general SA training, and then specialized in Edge services.
-- I'm comfortable writing production code, designing architectures, and presenting to technical and non-technical audiences.
-- My current focus areas: edge networking, CDN, web security, and increasingly agentic AI browsing patterns.
+See [AGENT_CONTEXT.md](AGENT_CONTEXT.md) for a concise summary tailored for AI agents.
+
+Also: [WORKING_STYLE.md](WORKING_STYLE.md) · [PROJECTS.md](PROJECTS.md)
