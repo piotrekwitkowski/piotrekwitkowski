@@ -2,7 +2,7 @@
 
 - **Name:** Piotrek Witkowski
 - **Location:** London, United Kingdom
-- **LinkedIn:** https://www.linkedin.com/in/pwitkowski/
+- **LinkedIn:** https://www.linkedin.com/in/pwitkowski
 - **GitHub:** https://github.com/piotrekwitkowski
 
 ## Current Role
@@ -15,7 +15,7 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ### Edge & Networking
 - Amazon CloudFront, AWS WAF, AWS Shield
-- Content delivery optimization, caching strategy
+- Content delivery optimization, API acceleration, caching strategy
 - DDoS mitigation, bot protection, perimeter security
 - HTTP/2, HTTP/3, TCP/IP, DNS, TLS
 - Latency optimization, edge compute
@@ -25,7 +25,7 @@ I design and implement solutions for customers globally, specializing in web acc
 - Backend: Serverless architectures on AWS, API design
 - Infrastructure: IaC, CI/CD pipelines
 - Languages: TypeScript, JavaScript, Java, Python
-- Cross-platform: web, native desktop (Linux, Windows), hybrid mobile (Ionic)
+- Cross-platform: web, native desktop (Linux, Windows), hybrid mobile
 
 ### Solution Architecture
 - AWS architectural patterns and solution design
@@ -64,7 +64,5 @@ I design and implement solutions for customers globally, specializing in web acc
 - Prefer minimal viable implementations over over-engineered solutions
 
 ## Context for Agents
-
-See [AGENT_CONTEXT.md](AGENT_CONTEXT.md) for a concise summary tailored for AI agents.
 
 Also: [WORKING_STYLE.md](WORKING_STYLE.md) · [SELECTED_WORK.md](SELECTED_WORK.md)
