@@ -25,7 +25,7 @@ I design and implement solutions for customers globally, specializing in web acc
 - Backend: Serverless architectures on AWS, API design
 - Infrastructure: IaC, CI/CD pipelines
 - Languages: TypeScript, JavaScript, Java, Python
-- Cross-platform: web, native desktop (macOS, Linux, Windows), hybrid mobile
+- Cross-platform: web, native desktop (macOS, Linux, Windows), hybrid (Electron, Ionic, React Native)
 
 ### Solution Architecture
 - AWS architectural patterns and solution design
