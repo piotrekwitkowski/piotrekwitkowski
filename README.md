@@ -55,7 +55,7 @@ I design and implement solutions for customers globally, specializing in web acc
 - Minimize dependencies, keep it simple
 
 ### Languages Spoken
-- Polish (native), English (fluent), German (proficient)
+- Polish, English, German
 
 ### Working Style
 - Concise and direct — no fluff
@@ -67,7 +67,6 @@ I design and implement solutions for customers globally, specializing in web acc
 
 - I've been at AWS for ~5 years with a clear progression from intern to worldwide specialist.
 - My background combines hands-on software engineering with customer-facing solution architecture.
-- I started in Berlin building web apps and internal tools at Humboldt University, then moved to AWS.
 - At AWS, I progressed through internal tooling (serverless frontends/backends for EMEA SA org), general SA training, and then specialized in Edge services.
 - I'm comfortable writing production code, designing architectures, and presenting to technical and non-technical audiences.
 - My current focus areas: edge networking, CDN, web security, and increasingly agentic AI browsing patterns.
