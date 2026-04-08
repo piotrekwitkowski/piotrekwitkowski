@@ -67,4 +67,4 @@ I design and implement solutions for customers globally, specializing in web acc
 
 See [AGENT_CONTEXT.md](AGENT_CONTEXT.md) for a concise summary tailored for AI agents.
 
-Also: [WORKING_STYLE.md](WORKING_STYLE.md) · [PROJECTS.md](PROJECTS.md)
+Also: [WORKING_STYLE.md](WORKING_STYLE.md) · [SELECTED_WORK.md](SELECTED_WORK.md)
