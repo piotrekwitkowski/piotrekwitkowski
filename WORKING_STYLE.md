@@ -3,6 +3,7 @@ WORKING STYLE
 
 APPROACH
 --------
+- Best code is no code. Before adding, ask if it can be eliminated.
 - Small steps, iterative progress. Never big bang changes.
 - Explain before implementing. "Tell me first" before "do it."
 - Think big, act small. Understand the full picture, then take the smallest useful step.
