@@ -52,4 +52,4 @@ I design and implement solutions for customers globally, specializing in web acc
 - Concise and direct, no fluff
 - Best code is no code: simplest solution that works, get to a working thing fast
 
-See also: [WORKING_STYLE.md](WORKING_STYLE.md) · [SELECTED_WORK.md](SELECTED_WORK.md)
+See also: [WORKING_STYLE.md](WORKING_STYLE.md)
