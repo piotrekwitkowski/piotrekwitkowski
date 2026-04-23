@@ -32,24 +32,24 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ## Career Timeline
 
-**Amazon Web Services** — London (2021–present)
+**Amazon Web Services - Solutions Architect** (2021–present)
 - WW Specialist SA, Edge & Networking (2025–)
 - Associate Specialist SA, Edge Services (2024–2025)
 - Associate SA, Edge Services (2023–2024)
 - Associate Solutions Architect (2022–2023)
-- Solutions Architect Intern, Berlin (2021–2022)
+- Solutions Architect Intern (2021–2022)
 
-**Humboldt University of Berlin** — Web Developer (2017–2021)
+**Humboldt University of Berlin - Web Developer** (2017–2021)
 
 ## Education
 
-- **MSc Computer Science** — TU Berlin (2019-2022). Thesis on serverless performance variability: benchmarked 100+ Lambda/Cloud Run function variants for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
-- **BSc Computer Science** — Humboldt-Universität zu Berlin (2016-2019). Thesis on NFC card emulation: implemented MIFARE DESFire AES mutual authentication on Android using Host Card Emulation to emulate and read contactless library ID cards.
+- **MSc Computer Science**, Technische Universität Berlin (2019-2022). Thesis on serverless performance variability: benchmarked 100+ Lambda/Cloud Run function variants for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
+- **BSc Computer Science**, Humboldt-Universität zu Berlin (2016-2019). Thesis on NFC card emulation: implemented MIFARE DESFire AES mutual authentication on Android using Host Card Emulation to emulate and read contactless library ID cards.
 
 ## How I Work
 
 - TypeScript by default, serverless-first on AWS (Lambda, CDK), React frontend, Node.js runtime
-- Concise and direct — no fluff
+- Concise and direct, no fluff
 - Best code is no code: simplest solution that works, get to a working thing fast
 
 See also: [WORKING_STYLE.md](WORKING_STYLE.md) · [SELECTED_WORK.md](SELECTED_WORK.md)
