@@ -43,8 +43,11 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ## Education
 
-- **MSc Computer Science**, Technische Universität Berlin (2019-2022). Thesis on serverless performance variability: benchmarked 100+ Lambda/Cloud Run function variants for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
-- **BSc Computer Science**, Humboldt-Universität zu Berlin (2016-2019). Thesis on NFC card emulation: implemented MIFARE DESFire AES mutual authentication on Android using Host Card Emulation to emulate and read contactless library ID cards.
+- **MSc Computer Science**, Technische Universität Berlin (2019-2022)  
+  *Thesis:* benchmarked 100+ serverless functions for image optimization, analyzing cold starts, resource allocation, and temporal patterns.
+
+- **BSc Computer Science**, Humboldt-Universität zu Berlin (2016-2019)  
+  *Thesis:* implemented MIFARE DESFire protocol on Android using Host Card Emulation to interact with student IDs and uni library IDs.
 
 ## How I Work
 
