@@ -33,11 +33,11 @@ I design and implement solutions for customers globally, specializing in web acc
 ## Career Timeline
 
 **Amazon Web Services - Solutions Architect** (2021–present)
-- WW Specialist SA, Edge & Networking (2025–)
-- Associate Specialist SA, Edge Services (2024–2025)
-- Associate SA, Edge Services (2023–2024)
-- Associate Solutions Architect (2022–2023)
-- Solutions Architect Intern (2021–2022)
+- WW Specialist, Edge & Networking (2025–)
+- Associate Specialist, Edge Services (2024–2025)
+- Associate, Edge Services (2023–2024)
+- Associate (2022–2023)
+- Intern (2021–2022)
 
 **Humboldt University of Berlin - Web Developer** (2017–2021)
 
@@ -48,8 +48,9 @@ I design and implement solutions for customers globally, specializing in web acc
 
 ## How I Work
 
-- TypeScript by default, serverless-first on AWS (Lambda, CDK), React frontend, Node.js runtime
+- Best code is no code: simplest, elegant solution that works
 - Concise and direct, no fluff
-- Best code is no code: simplest solution that works, get to a working thing fast
+- Get to a working thing fast
+- TypeScript by default, serverless-first on AWS (Lambda, CDK), React frontend, Node.js runtime
 
 See also: [WORKING_STYLE.md](WORKING_STYLE.md)
