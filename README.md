@@ -1,9 +1,8 @@
 # Piotrek Witkowski
 
-- **Name:** Piotrek Witkowski
-- **Location:** London, United Kingdom
-- **LinkedIn:** https://www.linkedin.com/in/pwitkowski
 - **GitHub:** https://github.com/piotrekwitkowski
+- **LinkedIn:** https://linkedin.com/in/pwitkowski
+- **Location:** London, United Kingdom
 
 ## Current Role
 
@@ -14,11 +13,10 @@ I design and implement solutions for customers globally, specializing in web acc
 ## Core Expertise
 
 ### Edge & Networking
-- Amazon CloudFront, AWS WAF, AWS Shield
+- Amazon CloudFront, Global Accelerator, AWS WAF, AWS Shield
 - Content delivery optimization, API acceleration, caching strategy
 - DDoS mitigation, bot protection, perimeter security
-- HTTP/2, HTTP/3, TCP/IP, DNS, TLS
-- Latency optimization, edge compute
+- HTTP/2, HTTP/3, TCP/IP, DNS, TLS. 
 
 ### Software Engineering
 - Frontend: React, Angular, TypeScript, Web Components, PWAs
@@ -30,8 +28,7 @@ I design and implement solutions for customers globally, specializing in web acc
 ### Solution Architecture
 - AWS architectural patterns and solution design
 - Customer-facing technical presentations and whiteboarding
-- Presales engineering
-- Product launch and go-to-market
+- Presales engineering, product launch and go-to-market
 
 ## Career Timeline
 
@@ -50,12 +47,9 @@ I design and implement solutions for customers globally, specializing in web acc
 ## Preferences
 
 ### Tech Stack
-- TypeScript by default, serverless-first on AWS (Lambda, CDK, API Gateway)
+- TypeScript by default, serverless-first on AWS (Lambda, CDK)
 - React for frontend, Node.js runtime
 - Minimize dependencies, keep it simple
-
-### Languages Spoken
-- Polish, English, German
 
 ### Working Style
 - Concise and direct — no fluff
